@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
 }
+body {
+    font-family: sans-serif;
+    }
 main{
     display: block;
 }
@@ -48,14 +51,14 @@ body{
     margin: 0!important;/*文字がずれている場合や*/
     padding: 0!important;/*文字が折り返される場合*/
     text-decoration:underline; /* アンダーライン */
+    font-family: serif;/* 明朝体 */
 }
-.overlap span{
-    font-weight: bold;
-}
+
+
 .slider {
     margin: 30px auto 0;
     width: 80%;
-  }
+}
 
 .your-class img{
     margin: 0 auto;
