@@ -58,7 +58,7 @@ footer{
     color:#000000;
     padding:10px 0;
 }
-.footer-menu-list li :hover{
+.footer-menu-list li:hover{
  color: #ff0000;
 }
 .footer-menu-list a{
