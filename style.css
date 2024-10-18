@@ -52,6 +52,9 @@ body{
     padding: 0!important;/*文字が折り返される場合*/
     text-decoration:underline; /* アンダーライン */
     font-family: serif;/* 明朝体 */
+    background: #000;
+    opacity: 0.7;/* 後ろの色付け */
+
 }
 
 
