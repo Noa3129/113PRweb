@@ -7,8 +7,27 @@ body{
     margin: 0;
     padding: 0;
 }
-#header{
 
+.slider {
+    margin: 30px auto 0;
+    width: 80%;
+  }
+
+.your-class img{
+    margin: 0 auto;
+    height: 50%;
+    width: 90%;
+pointer-events: none; 
+}
+
+
+
+
+
+
+
+#header{
+    max-width: 960px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -27,3 +46,4 @@ body{
 #header li a{
     color:#000000;
 }
+
