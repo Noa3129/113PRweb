@@ -23,6 +23,7 @@ body{
     padding: 8px 0;
 }
 #header li{
+    margin: 0 auto;
     font-size: 0.9rem;
     margin-left:30px;
     list-style: none;
@@ -40,7 +41,7 @@ body{
     margin: 0 auto;
     height: 50%;
     width: 90%;
-pointer-events: none; 
+    pointer-events: none; 
 }
 footer{
     background-color:#ffe4c4;
@@ -51,13 +52,12 @@ footer{
     display: flex;
     padding: 10px 0;
     text-align: center;
-
 }
 .footer-menu-list li{
     font-size: 0.9rem;
     margin-left:20px;
-  list-style: none;
-  color:#000000;
+    list-style: none;
+    color:#000000;
 }
 .footer-menu-list a{
     text-decoration: none;
