@@ -49,7 +49,7 @@ footer{
     height: 60%;
 }
 .footer-menu-list{
-    display: flex;
+    display: inline;
     padding: 10px 0;
     text-align: center;
 }
