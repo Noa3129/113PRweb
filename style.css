@@ -47,7 +47,7 @@ body{
     -webkit-transform: translate(-50%,-50%);/*ベンダープレフィックス*/
     transform: translate(-50%,-50%);/*センター寄せの修正*/
     color: #fff;
-    font-size: 1.8rem;
+    font-size: 3.6rem;
     margin: 0!important;/*文字がずれている場合や*/
     padding: 0!important;/*文字が折り返される場合*/
     text-decoration:underline; /* アンダーライン */
