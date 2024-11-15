@@ -93,3 +93,16 @@ footer p{
 .footer-menu-list a{
     text-decoration: none;
 }
+
+
+
+.explanation{
+    margin-left:10px;
+}
+.explanation p{
+    margin-left:10px;
+}
+.visual {
+    background-color: #9f9f9f;
+    margin-bottom: 60px;
+   }
