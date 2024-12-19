@@ -8,6 +8,7 @@ body {
     }
 main{
     display: block;
+  
 }
 body{
     background-color:#b0e0e6 ;
@@ -94,11 +95,15 @@ footer p{
     text-decoration: none;
 }
 
+
+
 .explanation{
-    background-color:#b0e0e6;
-  }
+    margin-left:10px;
+}
 .explanation p{
-    padding:30px 20px;
-    font-family:serif;
-    font-weight: bold;
-  }
+    margin-left:10px;
+}
+.visual {
+    background-color: #9f9f9f;
+    margin-bottom: 60px;
+   }
