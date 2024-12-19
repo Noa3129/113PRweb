@@ -93,3 +93,12 @@ footer p{
 .footer-menu-list a{
     text-decoration: none;
 }
+
+.explanation{
+    background-color:#b0e0e6;
+  }
+.explanation p{
+    padding:30px 20px;
+    font-family:serif;
+    font-weight: bold;
+  }
