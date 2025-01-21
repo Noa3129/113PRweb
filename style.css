@@ -70,6 +70,15 @@ body{
     width: 90%;
     pointer-events: none; 
 }
+.foodIntroduction{
+
+}
+.foodIntroductionH2{
+    font-family: sans-serif;
+}
+.foodmenu-list{
+    display:flex;
+}
 footer{
     background-color:#ffe4c4;
     height: 60%;
